@@ -5,4 +5,6 @@ This tutorial mainly focuses on Git and using GitHub as it's remote.
 
 This repository is built step by step in the tutorial.
 
+Adding plines to reddme
+
 It now includes steps for GitHub.
